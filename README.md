@@ -25,15 +25,17 @@ Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berba
 # Desain 3D
 Berikut ini adalah hasil desain 3D
 1. Desain 3D Casing
+
+   
 2. Desain 3D Casing + Komponen
    
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Desain%203D/3D%20(4).PNG)
 
-4. Desain 3D PCB dengan komponen
+3. Desain 3D PCB dengan komponen
    
    ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%201.png)
    
-5. Desain 3D PCB tanpa Komponen
+4. Desain 3D PCB tanpa Komponen
    
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%20tanpa%20komponen.png)
 

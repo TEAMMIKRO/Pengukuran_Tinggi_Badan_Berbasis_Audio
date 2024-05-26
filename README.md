@@ -14,7 +14,9 @@ Dan beberapa komponen pasif seperti resistor yang salah satunya digunakan sebaga
 # Konsep Simulasi
 Berikut adalah skematik breadboard untuk simulasi menggunakan wokwi yang disimulasikan dengan arduino uno
 
-Dengan hasil simulasi seperti ditunjukkan pada 
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Simulasi%20Wokwi/Simul%20wokwi.PNG)
+
+Dengan hasil simulasi seperti ditunjukkan pada [youtube]: https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID
 
 # Skematik Rangkaian
 
@@ -33,4 +35,4 @@ Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur ting
 4. Audio 
 
 ![]()
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Assets/Banner/The%20Project.jpg)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Simulasi%20Wokwi/Simul%20wokwi.PNG)

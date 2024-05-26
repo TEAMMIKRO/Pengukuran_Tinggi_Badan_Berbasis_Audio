@@ -45,10 +45,13 @@ Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur ting
 1. Audio Selamat Datang
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/WhatsApp%20Image%202024-05-25%20at%2018.56.08.jpeg)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/WhatsApp%20Image%202024-05-25%20at%2018.57.40.jpeg)
 
 2. Audio Instruksi 1
+
+
 3. Audio Instruksi 2
 4. Audio 
 
 ![]()
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/WhatsApp%20Image%202024-05-25%20at%2018.56.08.jpeg)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/WhatsApp%20Image%202024-05-25%20at%2018.57.40.jpeg)

@@ -25,11 +25,12 @@ Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berba
 # Desain 3D
 Berikut ini adalah hasil desain 3D
 1. Desain 3D Casing
+2. Desain 3D Casing + Komponen
    
-3. Desain 3D Casing + Komponen
-   
-5. Desain 3D PCB dengan komponen
-6. Desain 3D PCB tanpa Komponen
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Desain%203D/3D%20(4).PNG)
+
+4. Desain 3D PCB dengan komponen
+5. Desain 3D PCB tanpa Komponen
 
 # Audio Project
 Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur tinggi badan
@@ -39,4 +40,4 @@ Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur ting
 4. Audio 
 
 ![]()
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Schematic/WhatsApp%20Image%202024-05-20%20at%2010.40.30.jpeg)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Desain%203D/3D%20(4).PNG)

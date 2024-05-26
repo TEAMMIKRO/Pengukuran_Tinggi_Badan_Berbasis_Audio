@@ -34,6 +34,8 @@ Berikut ini adalah hasil desain 3D
    ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%201.png)
    
 5. Desain 3D PCB tanpa Komponen
+   
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%20tanpa%20komponen.png)
 
 # Audio Project
 Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur tinggi badan
@@ -43,4 +45,4 @@ Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur ting
 4. Audio 
 
 ![]()
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%201.png)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%20tanpa%20komponen.png)

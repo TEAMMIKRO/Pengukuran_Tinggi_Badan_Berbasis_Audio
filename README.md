@@ -27,8 +27,9 @@ Berikut ini adalah hasil desain 3D
 1. Desain 3D Casing
    
 3. Desain 3D Casing + Komponen
-4. Desain 3D PCB dengan komponen
-5. Desain 3D PCB tanpa Komponen
+   
+5. Desain 3D PCB dengan komponen
+6. Desain 3D PCB tanpa Komponen
 
 # Audio Project
 Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur tinggi badan

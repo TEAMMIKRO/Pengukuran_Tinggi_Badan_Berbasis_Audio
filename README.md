@@ -23,10 +23,10 @@ NO| NAMA                               | NRP          |TUGAS
 ## Daftar Isi
 
 - [Komponen Yang Digunakan](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#komponen-yang-digunakan)
-- [Konsep Simulasi](https://github.com/hillaryfraley/jobbriefings#scope)
+- [Konsep Simulasi](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#konsep-simulasi)
 - [Skematik Rangkaian](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#skematik-rangkaian)
-- [Desain 3D]()
-- [Audio Project](https://github.com/hillaryfraley/jobbriefings#daily-briefing)
+- [Desain 3D](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#desain-3d)
+- [Audio Project](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#audio-project)
 - [Dokumentasi Kegiatan](https://github.com/hillaryfraley/jobbriefings#daily-briefing)
 - [Hasil Project](https://github.com/hillaryfraley/jobbriefings#daily-briefing)
 
@@ -46,11 +46,13 @@ Berikut adalah skematik breadboard untuk simulasi menggunakan wokwi yang disimul
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Simulasi%20Wokwi/Simul%20wokwi.PNG)
 
-Dengan hasil simulasi seperti ditunjukkan pada [youtube]: https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID
+Dengan hasil simulasi seperti ditunjukkan pada [youtube](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID)
 
 ## Skematik Rangkaian
 Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berbasis audio menggunakan software eagle
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Schematic/WhatsApp%20Image%202024-05-20%20at%2010.40.30.jpeg)
+
+Untuk semua file yang dibutuhkan terkait skematik rangkaian dapat diakses melalui link [berikut](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID)
 
 ## Desain 3D
 Berikut ini adalah hasil desain 3D

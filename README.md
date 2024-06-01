@@ -69,7 +69,7 @@ Dengan hasil simulasi seperti ditunjukkan pada [youtube](https://youtu.be/tahwFH
 Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berbasis audio menggunakan software eagle
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Schematic/WhatsApp%20Image%202024-05-20%20at%2010.40.30.jpeg)
 
-Untuk semua file yang dibutuhkan terkait skematik rangkaian dapat diakses melalui link [berikut](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/11f3ac3c87b101c1f37d479886a7731d9a7b8a20/PCB%20Board/Schematic)
+Untuk semua file yang dibutuhkan terkait skematik rangkaian dapat diakses melalui link [berikut](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/be1ee38d38269d5c9926c6d4590ad30a860afe69/PCB%20Board)
 
 ## Desain 3D
 Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID)

@@ -14,7 +14,7 @@ NIP : 197501272002121003
 NO| NAMA                               | NRP          |TUGAS
 --| -----------------------------------|--------------|--------------
 1.| Devani Febecca Virgina Sudaryono   | 2122500002   | Studi literatur, publikasi melalui github, pembuatan audio project, pembelian komponen
-2.| Syahrir Nur                        | 2122500005   | Publikasi melalui github, desain skematik dan PCB board, proses perakitan dan soldering
+2.| Syahrir Nur                        | 2122500005   | Publikasi melalui github, desain skematik dan PCB board, cetak PCB
 3.| Igna Wahyu Bahyaqi                 | 2122500007   | Pembuatan percobaan secara simulasi, proses perakitan dan soldering, pemrograman arduino 
 4.| Bagus Dwi Kurniawan                | 2122500019   | Pembuatan desain 3D, desain tata letak mekanik, proses perakitan dan soldering
 5.| Atilla Habil Prakoso               | 2122500028   | Pemrograman arduino, proses perakitan dan soldering, pembuatan website/database
@@ -103,9 +103,13 @@ Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :
 Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/f3041c1a448ced748656aca4e69009a15c7adc17/Project%20Audio) sebagai bentuk perintah cara penggunaan alat serta tinggi badan yang terukur 
 1. Audio Selamat Datang
 
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/WhatsApp%20Image%202024-05-25%20at%2018.56.08.jpeg)
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/WhatsApp%20Image%202024-05-25%20at%2018.57.40.jpeg)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(AUDACITY).jpeg)
 
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(HXD).jpeg)
+
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(HEX).jpeg)
 2. Audio Instruksi 1
 
 

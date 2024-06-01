@@ -22,7 +22,7 @@ NO| NAMA                               | NRP          |TUGAS
 
 ## Daftar Isi
 
-- [Komponen Yang Digunakan]()
+- [Komponen Yang Digunakan](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#komponen-yang-digunakan)
 - [Konsep Simulasi](https://github.com/hillaryfraley/jobbriefings#scope)
 - [Desain 3D](https://github.com/hillaryfraley/jobbriefings#work-practice)
 - [Audio Project](https://github.com/hillaryfraley/jobbriefings#daily-briefing)

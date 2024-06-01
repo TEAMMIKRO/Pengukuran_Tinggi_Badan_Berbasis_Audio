@@ -100,7 +100,7 @@ Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :
 
 
 ## Audio Project
-Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID) sebagai bentuk perintah cara penggunaan alat serta tinggi badan yang terukur 
+Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/f3041c1a448ced748656aca4e69009a15c7adc17/Project%20Audio) sebagai bentuk perintah cara penggunaan alat serta tinggi badan yang terukur 
 1. Audio Selamat Datang
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/WhatsApp%20Image%202024-05-25%20at%2018.56.08.jpeg)

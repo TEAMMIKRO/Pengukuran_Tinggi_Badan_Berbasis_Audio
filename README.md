@@ -95,9 +95,12 @@ Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan 
 ## Manufaktur Desain Casing
 Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :
 
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4a8bc46a8ae478fd297673a2b90015925bcaf7fd/Desain%203D/3D%20Print/Ukuran%20Cetak%20Akrilik.jpeg)
+
+
 
 ## Audio Project
-Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur tinggi badan
+Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID) sebagai bentuk perintah cara penggunaan alat serta tinggi badan yang terukur 
 1. Audio Selamat Datang
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/WhatsApp%20Image%202024-05-25%20at%2018.56.08.jpeg)
@@ -107,7 +110,7 @@ Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur ting
 
 
 3. Audio Instruksi 2
-4. Audio 
+4. Audio Tinggi Badan
+5. Audio Sampai Jumpa
 
-![]()
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/WhatsApp%20Image%202024-05-25%20at%2018.57.40.jpeg)
+(https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4a8bc46a8ae478fd297673a2b90015925bcaf7fd/Desain%203D/3D%20Print/Ukuran%20Cetak%20Akrilik.jpeg)

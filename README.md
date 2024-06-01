@@ -23,6 +23,7 @@ NO| NAMA                               | NRP          |TUGAS
 ## Daftar Isi
 
 - [Komponen Yang Digunakan](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#komponen-yang-digunakan)
+- [Blok Diagram](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#komponen-yang-digunakan)
 - [Konsep Simulasi](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#konsep-simulasi)
 - [Skematik Rangkaian](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#skematik-rangkaian)
 - [Desain 3D](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#desain-3d)
@@ -41,6 +42,22 @@ NO| NAMA                               | NRP          |TUGAS
 8. PCB
 Dan beberapa komponen pasif seperti resistor yang salah satunya digunakan sebagai pembatas arus pada LED indikator.
 
+## Blok Diagram
+
+Alat pengukuran tinggi badan berbasis ATmega2560 dengan output suara adalah alat yang mengukur tinggi badan seseorang menggunakan sensor ultrasonik yang terhubung ke mikrokontroler ATmega2560. Berikut prinsip kerjanya :
+
+1. **Sensor Pengukuran**: Sensor yang digunakan untuk mengukur tinggi badan berupa sensor ultrasonik yang mengukur jarak dari sensor ke permukaan atas kepala seseorang.
+
+2. **Pemrosesan Mikrokontroler**: Data yang diterima dari sensor diproses oleh mikrokontroler ATmega2560. Mikrokontroler ini memiliki berbagai pin input/output yang dapat digunakan untuk berkomunikasi dengan sensor dan juga untuk mengontrol output suara.
+
+3. **Perhitungan Tinggi Badan**: Data yang diterima dari sensor diolah oleh mikrokontroler untuk menghitung tinggi badan. Misalnya, pada sensor ultrasonik, waktu yang dibutuhkan untuk pantulan gelombang suara bisa diubah menjadi jarak.
+
+4. **Output Suara**: Setelah tinggi badan dihitung, mikrokontroler mengirimkan instruksi ke speaker yang terhubung, untuk menghasilkan suara yang memberitahu pengguna tentang tinggi badan yang terukur. Suara ini bisa berupa angka yang diucapkan, misalnya "Tinggi badan Anda adalah 170 centimeter", atau sinyal bunyi yang memberi tahu bahwa pengukuran telah selesai. Serta akan ditampilkan melalui LCD
+
+5. **Suara Prosedur Penggunaan**: Alat ini juga dapat menggunakan suara untuk memberikan petunjuk kepada pengguna tentang cara menggunakan alat dengan benar. Misalnya, suara tersebut dapat memberi instruksi seperti "Silakan berdiri tegak".
+
+6. **Output Suara Berdasarkan Proses**: Selain itu, alat ini juga dapat menggunakan suara untuk memberikan umpan balik langsung kepada pengguna selama proses pengukuran. Misalnya, alat ini dapat mengucapkan "Pengukuran sedang berlangsung, mohon tunggu sebentar" atau "Pengukuran selesai, tinggi badan Anda adalah...".
+
 ## Konsep Simulasi
 Berikut adalah skematik breadboard untuk simulasi menggunakan wokwi yang disimulasikan dengan arduino uno
 
@@ -52,10 +69,10 @@ Dengan hasil simulasi seperti ditunjukkan pada [youtube](https://youtu.be/tahwFH
 Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berbasis audio menggunakan software eagle
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Schematic/WhatsApp%20Image%202024-05-20%20at%2010.40.30.jpeg)
 
-Untuk semua file yang dibutuhkan terkait skematik rangkaian dapat diakses melalui link [berikut](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID)
+Untuk semua file yang dibutuhkan terkait skematik rangkaian dapat diakses melalui link [berikut](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/11f3ac3c87b101c1f37d479886a7731d9a7b8a20/PCB%20Board/Schematic)
 
 ## Desain 3D
-Berikut ini adalah hasil desain 3D
+Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID)
 1. Desain 3D Casing
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/9e8f5f1932d89f138b15bf86c9fd978ba1ef6fdc/Desain%203D/DESAIN/3D%20(6).PNG)

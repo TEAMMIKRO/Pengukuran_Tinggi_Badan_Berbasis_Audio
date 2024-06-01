@@ -22,7 +22,7 @@ NO| NAMA                               | NRP          |TUGAS
 
 ## Daftar Isi
 
-- [Komponen Yang Digunakan](https://github.com/hillaryfraley/jobbriefings#purpose)
+- [Komponen Yang Digunakan](https://github.com/hillaryfraley/jobbriefings#daily-briefing)
 - [Konsep Simulasi](https://github.com/hillaryfraley/jobbriefings#scope)
 - [Desain 3D](https://github.com/hillaryfraley/jobbriefings#work-practice)
 - [Audio Project](https://github.com/hillaryfraley/jobbriefings#daily-briefing)

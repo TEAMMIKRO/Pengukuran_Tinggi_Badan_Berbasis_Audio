@@ -89,6 +89,13 @@ Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8
    
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%20tanpa%20komponen.png)
 
+## Informasi Penempatan Komponen Pada PCB
+Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :
+
+## Manufaktur Desain Casing
+Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :
+
+
 ## Audio Project
 Terdapat 5 mode audio sebagai bentuk perintah cara penggunaan alat pengukur tinggi badan
 1. Audio Selamat Datang

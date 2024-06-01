@@ -83,7 +83,7 @@ Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8
 
 3. Desain 3D PCB dengan komponen
    
-   ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%201.png)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%201.png)
    
 4. Desain 3D PCB tanpa Komponen
    
@@ -97,23 +97,29 @@ Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4a8bc46a8ae478fd297673a2b90015925bcaf7fd/Desain%203D/3D%20Print/Ukuran%20Cetak%20Akrilik.jpeg)
 
-
-
 ## Audio Project
 Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/f3041c1a448ced748656aca4e69009a15c7adc17/Project%20Audio) sebagai bentuk perintah cara penggunaan alat serta tinggi badan yang terukur 
 1. Audio Selamat Datang
 
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(AUDACITY).jpeg)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SELAMAT%20DATANG%20(AUDACITY).PNG)
 
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SELAMAT%20DATANG%20(HXD).jpeg)
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/2e940395876ea8da8e4880ef85363d88e36535b4/Project%20Audio/Dokumentasi%20Audio/SELAMAT%20DATANG%20(HEX).jpeg)
+
+2. Audio Instruksi 1
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(AUDACITY).jpeg)
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(HXD).jpeg)
 
-
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(HEX).jpeg)
-2. Audio Instruksi 1
-
 
 3. Audio Instruksi 2
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(HEX).jpeg)
+
+
 4. Audio Tinggi Badan
 5. Audio Sampai Jumpa
 

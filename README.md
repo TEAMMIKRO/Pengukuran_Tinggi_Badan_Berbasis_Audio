@@ -105,8 +105,7 @@ Berikut ini adalah hasil [desain 3D](https://github.com/TEAMMIKRO/Pengukuran_Tin
 
 Berikut merupakan tutorial pembuatan desain PCB pada proyek ini
 
-
-
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/bc3afa7e-2291-4080-a7c7-66f3c7525a5d
 
 ## Informasi Penempatan Komponen Pada PCB
 Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :

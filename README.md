@@ -95,11 +95,15 @@ Berikut ini adalah hasil [desain 3D](https://github.com/TEAMMIKRO/Pengukuran_Tin
    
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/aaa9d87d6396b179dea4c512e71c5129298c3cc6/Desain%203D/DESAIN/3D%20(4).PNG)
 
-3. Desain 3D PCB dengan komponen
+3. Desain Keseluruhan Alat
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%201.png)
+
+4. Desain 3D PCB dengan komponen
    
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%201.png)
    
-4. Desain 3D PCB tanpa Komponen
+5. Desain 3D PCB tanpa Komponen
    
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%20tanpa%20komponen.png)
 

@@ -83,6 +83,14 @@ Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berba
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Schematic/WhatsApp%20Image%202024-05-20%20at%2010.40.30.jpeg)
 
 Untuk semua file yang dibutuhkan terkait skematik rangkaian dapat diakses melalui link [berikut](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/01fa1884fd218f2bfc27fa47c7c2f433bcaae3b4/PCB%20Board)
+## Desain Shield PCB
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/9e8f5f1932d89f138b15bf86c9fd978ba1ef6fdc/Desain%203D/DESAIN/3D%20(6).PNG)
+
+Tutorial pembuatan desain PCB yang dimulai dari skematik rangkaian aadalah sebagai berikut :
+
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/bc3afa7e-2291-4080-a7c7-66f3c7525a5d
+
 
 ## Desain 3D
 Berikut ini adalah hasil [desain 3D](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/275d552436e7006e9d67db9b5f6c3f620f8418e4/Desain%203D)
@@ -97,7 +105,7 @@ Berikut ini adalah hasil [desain 3D](https://github.com/TEAMMIKRO/Pengukuran_Tin
 
 3. Desain Keseluruhan Alat
 
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%201.png)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/48350e13fdaf42e8792cb565846c591bb0b1ec31/Desain%203D/DESAIN/3D%20(2).PNG)
 
 4. Desain 3D PCB dengan komponen
    
@@ -107,9 +115,6 @@ Berikut ini adalah hasil [desain 3D](https://github.com/TEAMMIKRO/Pengukuran_Tin
    
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%20tanpa%20komponen.png)
 
-Berikut merupakan tutorial pembuatan desain PCB pada proyek ini
-
-https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/bc3afa7e-2291-4080-a7c7-66f3c7525a5d
 
 ## Informasi Penempatan Komponen Pada PCB
 Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :

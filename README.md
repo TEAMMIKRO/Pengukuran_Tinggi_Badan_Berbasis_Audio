@@ -162,6 +162,9 @@ https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/16839
 
 1. Pembelian Komponen
 2. Pembuatan Simulasi Melalui Software
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/dab638d84df408ab0f122243b43bc81fc9df51b2/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-06-02%20at%2020.10.47.jpeg)
+
 3. Desain PCB
 4. Desain 3D
 
@@ -181,25 +184,28 @@ https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/16839
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/8835d68b85bdef378ac459d9ddb3fbe4150e478f/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-05-27%20at%2008.29.44_8c0e4b73.jpg)
 
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/dab638d84df408ab0f122243b43bc81fc9df51b2/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-06-02%20at%2020.31.47.jpeg)
+
 10. Publikasi Github
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/dab638d84df408ab0f122243b43bc81fc9df51b2/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-06-02%20at%2020.31.47.jpeg)
+
 11. Percobaan Alat
 
 ## Hasil
 
-1. Cetak PCB non Komponen
-2. Cetak PCB + Komponen
+1. Cetak PCB
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Hasil%20Cetak%20PCB%20%26%20Akrilik/PCB%20CETAK%201.jpeg)
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Hasil%20Cetak%20PCB%20%26%20Akrilik/PCB%20CETAK%202.jpeg)
-
-   
-4. Cetak Akrilik
+  
+2. Cetak Akrilik
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Hasil%20Cetak%20PCB%20%26%20Akrilik/CASING%20CETAK%201.jpeg)
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Hasil%20Cetak%20PCB%20%26%20Akrilik/CASING%20CETAK%202.jpeg)
 
-5. Keseluruhan Alat
+3. Keseluruhan Alat
    
 

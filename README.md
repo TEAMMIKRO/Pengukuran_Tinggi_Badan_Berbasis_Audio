@@ -27,8 +27,8 @@ NO| NAMA                               | NRP          |TUGAS
 - [Skematik Rangkaian](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#skematik-rangkaian)
 - [Desain 3D](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#desain-3d)
 - [Audio Project](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#audio-project)
-- [Dokumentasi Kegiatan](https://github.com/hillaryfraley/jobbriefings#daily-briefing)
-- [Hasil Project](https://github.com/hillaryfraley/jobbriefings#daily-briefing)
+- [Dokumentasi Kegiatan](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#dokumentasi)
+- [Hasil Project](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#hasil)
 
 ## Komponen Yang Digunakan
 1. Arduino ATMEGA2560

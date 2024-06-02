@@ -67,6 +67,8 @@ Berikut adalah skematik breadboard untuk simulasi menggunakan wokwi yang disimul
 
 Dengan hasil simulasi seperti ditunjukkan pada [youtube](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID)
 
+Simulasi dapat diperoleh dan didownload melalui link [berikut](https://wokwi.com/projects/399474799840596993) 
+
 ## Skematik Rangkaian
 Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berbasis audio menggunakan software eagle
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Schematic/WhatsApp%20Image%202024-05-20%20at%2010.40.30.jpeg)

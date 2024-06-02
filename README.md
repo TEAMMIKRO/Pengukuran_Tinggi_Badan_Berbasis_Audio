@@ -13,7 +13,7 @@ Alat pengukur tinggi badan dengan output suara adalah sebuah perangkat yang meng
 NO| NAMA                               | NRP          |JOBDESK + TUGAS TAMBAHAN
 --| -----------------------------------|--------------|--------------
 1.| Devani Febecca Virgina Sudaryono   | 2122500002   | Project Manager + pembelian komponen
-2.| Syahrir Nur                        | 2122500005   | Hardware Developer + membantu publikasi melalui github
+2.| Syahrir Nur                        | 2122500005   | Hardware Developer + membantu publikasi melalui github + Pembuatan Flyer dan Poster
 3.| Igna Wahyu Bahyaqi                 | 2122500007   | Hardware Developer + membantu pemrograman arduino 
 4.| Bagus Dwi Kurniawan                | 2122500019   | 3D Designer + membantu proses perakitan dan soldering
 5.| Atilla Habil Prakoso               | 2122500028   | Software Developer + membantu proses perakitan dan soldering

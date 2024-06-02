@@ -72,9 +72,10 @@ Berikut adalah skematik breadboard untuk simulasi menggunakan wokwi yang disimul
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Simulasi%20Wokwi/Simul%20wokwi.PNG)
 
 Dengan hasil simulasi seperti ditunjukkan pada video berikut: 
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Simulasi%20Wokwi/Simulasi%20Alat%20Ukur%20Tinggi%20Badan%20Menggunakan%20Ouput%20berupa%20Buzzer%20dan%20LCD%20I2C.mp4)
 
-Simulasi dapat diperoleh dan didownload melalui link [berikut](https://wokwi.com/projects/399474799840596993) 
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/19a3157d-1056-4a39-92ac-d9e758f5ff1c
+
+Template simulasi dapat diperoleh dan didownload melalui link [berikut](https://wokwi.com/projects/399474799840596993) 
 
 ## Skematik Rangkaian
 Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berbasis audio menggunakan software KiCad

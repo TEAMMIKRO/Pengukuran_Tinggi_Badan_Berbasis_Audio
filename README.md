@@ -91,6 +91,8 @@ Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8
    
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/3D%20image%20tanpa%20komponen.png)
 
+Berikut merupakan tutorial pembuatan desain PCB pada proyek ini
+
 ## Informasi Penempatan Komponen Pada PCB
 Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :
 
@@ -141,6 +143,10 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/489595905179edad1ffa022d430cba717051ff08/Project%20Audio/Dokumentasi%20Audio/SAMPAI%20JUMPA%20(HXD).jpeg)
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SAMPAI%20JUMPA%20(HEX).jpeg)
+
+Berikut ini merupakan  tutorial cara mengedit vidio di audacity beserta cara konvert audio format MP3 to HEX 
+
+
 
 ## Website & Database
 

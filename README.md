@@ -166,6 +166,9 @@ https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/16839
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/dab638d84df408ab0f122243b43bc81fc9df51b2/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-06-02%20at%2020.10.47.jpeg)
 
 3. Desain PCB
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/c8b081f55c1a2530f42cc59b610abb251f4390ed/Dokumentasi/Proses%20Pembuatan%20PCB/WhatsApp%20Image%202024-06-02%20at%2020.34.36.jpeg)
+
 4. Desain 3D
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/8835d68b85bdef378ac459d9ddb3fbe4150e478f/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-05-27%20at%2008.29.45_cd0d9609.jpg)

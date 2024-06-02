@@ -182,4 +182,15 @@ Berikut ini merupakan  tutorial cara mengedit vidio di audacity beserta cara kon
 
 1. Cetak PCB non Komponen
 2. Cetak PCB + Komponen
-3. Cetak Akrilik
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Hasil%20Cetak%20PCB%20%26%20Akrilik/PCB%20CETAK%201.jpeg)
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Hasil%20Cetak%20PCB%20%26%20Akrilik/PCB%20CETAK%202.jpeg)
+
+   
+4. Cetak Akrilik
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Hasil%20Cetak%20PCB%20%26%20Akrilik/CASING%20CETAK%201.jpeg)
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Hasil%20Cetak%20PCB%20%26%20Akrilik/CASING%20CETAK%202.jpeg)
+

@@ -25,6 +25,7 @@ NO| NAMA                               | NRP          |JOBDESK + TUGAS TAMBAHAN
 - [Blok Diagram](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#blok-diagram)
 - [Konsep Simulasi](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#konsep-simulasi)
 - [Skematik Rangkaian](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#skematik-rangkaian)
+- [Desain Shield PCB](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#skematik-rangkaian)
 - [Desain 3D](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#desain-3d)
 - [Audio Project](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#audio-project)
 - [Website & Database](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#website--database)
@@ -83,11 +84,12 @@ Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berba
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Schematic/WhatsApp%20Image%202024-05-20%20at%2010.40.30.jpeg)
 
 Untuk semua file yang dibutuhkan terkait skematik rangkaian dapat diakses melalui link [berikut](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/01fa1884fd218f2bfc27fa47c7c2f433bcaae3b4/PCB%20Board)
+
 ## Desain Shield PCB
 
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/9e8f5f1932d89f138b15bf86c9fd978ba1ef6fdc/Desain%203D/DESAIN/3D%20(6).PNG)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/535d31c03a702554be86efaef8b9dbc7dc1b73a4/PCB%20Board/PCB%20Master/WhatsApp%20Image%202024-06-03%20at%2004.12.13.jpeg)
 
-Tutorial pembuatan desain PCB yang dimulai dari skematik rangkaian aadalah sebagai berikut :
+Tutorial pembuatan desain PCB sebagai berikut :
 
 https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/bc3afa7e-2291-4080-a7c7-66f3c7525a5d
 

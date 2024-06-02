@@ -45,8 +45,8 @@ NO| Komponen                           | Jumlah
 6.| Push Button                        | 1 
 7.| LED 3mm                            | 2
 8.| PCB                                | 1
-9.| Resistor 220ohm                    | 1
-10.| Resistor 10kohm                   | 2
+9.| Resistor 220ohm                    | 2
+10.| Resistor 10kohm                   | 1
 
 
 ## Blok Diagram

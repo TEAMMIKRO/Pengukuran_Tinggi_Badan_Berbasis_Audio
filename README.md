@@ -151,14 +151,24 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 
 1. Pembelian Komponen
 2. Pembuatan Simulasi Melalui Software
-3. Soldering Awal
-4. Pembuatan Web/database
-5. Pembuatan Program Mikrokontroler
-6. Desain PCB
-7. Pembuatan Audio
-8. Perakitan Keseluruhan Alat
-9. Publikasi Github
-10. Percobaan Alat
+3. Desain PCB
+4. Desain 3D
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/8835d68b85bdef378ac459d9ddb3fbe4150e478f/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-05-27%20at%2008.29.45_cd0d9609.jpg)
+
+5. Soldering Awal
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/8835d68b85bdef378ac459d9ddb3fbe4150e478f/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-05-27%20at%2008.29.43_7eb4deb4.jpg)
+
+6. Pembuatan Web/database
+7. Pembuatan Program Mikrokontroler
+8. Pembuatan Audio
+9. Perakitan Keseluruhan Alat
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/8835d68b85bdef378ac459d9ddb3fbe4150e478f/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-05-27%20at%2008.29.44_8c0e4b73.jpg)
+
+10. Publikasi Github
+11. Percobaan Alat
 
 ## Hasil
 

@@ -101,7 +101,7 @@ Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4a8bc46a8ae478fd297673a2b90015925bcaf7fd/Desain%203D/3D%20Print/Ukuran%20Cetak%20Akrilik.jpeg)
 
 ## Audio Project
-Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/f3041c1a448ced748656aca4e69009a15c7adc17/Project%20Audio) sebagai bentuk perintah cara penggunaan alat serta tinggi badan yang terukur 
+Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/be1ee38d38269d5c9926c6d4590ad30a860afe69/Project%20Audio) sebagai bentuk perintah cara penggunaan alat serta tinggi badan yang terukur 
 1. Audio Selamat Datang
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SELAMAT%20DATANG%20(AUDACITY).PNG)

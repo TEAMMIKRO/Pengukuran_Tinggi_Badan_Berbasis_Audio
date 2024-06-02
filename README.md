@@ -195,6 +195,7 @@ https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/16839
 Tutorial upload foto dan vidio pada readme github sebagai berikut :
 
 
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/a2bcb10a-18a6-4992-a28e-b74a7d9fbc8a
 
 
 10. Percobaan Alat

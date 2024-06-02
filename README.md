@@ -192,6 +192,11 @@ https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/16839
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Publikasi%20Github/WhatsApp%20Image%202024-06-02%20at%2019.33.18.jpeg)
 
+Tutorial upload foto dan vidio pada readme github sebagai berikut :
+
+
+
+
 10. Percobaan Alat
 
 ## Hasil

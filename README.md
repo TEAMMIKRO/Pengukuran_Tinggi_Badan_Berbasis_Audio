@@ -148,8 +148,6 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 
 Berikut ini merupakan  tutorial cara mengedit vidio di audacity beserta cara konvert audio format MP3 to HEX 
 
-
-
 ## Website & Database
 
 1. Database

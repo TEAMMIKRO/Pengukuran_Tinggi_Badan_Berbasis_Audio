@@ -29,6 +29,7 @@ NO| NAMA                               | NRP          |JOBDESK + TUGAS TAMBAHAN
 - [Audio Project](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#audio-project)
 - [Website & Database](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#website--database)
 - [Dokumentasi Kegiatan](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#dokumentasi)
+- [Tutorial Upload Fota dan Vidio di Readme Github](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#dokumentasi)
 - [Hasil Project](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#hasil)
 
 ## Komponen Yang Digunakan
@@ -231,10 +232,18 @@ https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/16839
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Publikasi%20Github/WhatsApp%20Image%202024-06-02%20at%2019.33.18.jpeg)
 
+10. Percobaan Alat
+
+
+## Tutorial Upload Foto dan Vidio di Readme Github
+
 Tutorial upload foto dan vidio pada readme github sebagai berikut :
 
 
 https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/a2bcb10a-18a6-4992-a28e-b74a7d9fbc8a
+
+
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/8b76bbaa-6051-4535-83ba-0f69c84c6a65
 
 
 10. Percobaan Alat

@@ -4,19 +4,20 @@ Alat pengukur tinggi badan dengan output suara adalah sebuah perangkat yang meng
 
 `WORKSHOP MIKROKONTROLLER - PROGRAM STUDI TEKNIK ELEKTRONIKA - POLITEKNIK ELEKTRONIKA NEGERI SURABAYA`
 
-`DOSEN PENGAMPU : Akhmad Hendriawan ST, MT 
-NIP. 197501272002121003`
+`DOSEN PENGAMPU : Akhmad Hendriawan ST, MT`
+
+`NIP. 197501272002121003`
 
 `TEAM DAN PEMBAGIAN TUGAS`
 
-NO| NAMA                               | NRP          |TUGAS
+NO| NAMA                               | NRP          |JOBDESK + TUGAS TAMBAHAN
 --| -----------------------------------|--------------|--------------
-1.| Devani Febecca Virgina Sudaryono   | 2122500002   | Studi literatur, publikasi melalui github, pembuatan audio project, pembelian komponen
-2.| Syahrir Nur                        | 2122500005   | Publikasi melalui github, desain skematik dan PCB board, cetak PCB
-3.| Igna Wahyu Bahyaqi                 | 2122500007   | Pembuatan percobaan secara simulasi, proses perakitan dan soldering, pemrograman arduino 
-4.| Bagus Dwi Kurniawan                | 2122500019   | Pembuatan desain 3D, desain tata letak mekanik, proses perakitan dan soldering
-5.| Atilla Habil Prakoso               | 2122500028   | Pemrograman arduino, proses perakitan dan soldering, pembuatan website/database
-6.| Arief Naufaldi                     | 2122500031   | Proses dokumentasi, pembuatan poster
+1.| Devani Febecca Virgina Sudaryono   | 2122500002   | Project Manager + pembelian komponen
+2.| Syahrir Nur                        | 2122500005   | Hardware Developer + membantu publikasi melalui github
+3.| Igna Wahyu Bahyaqi                 | 2122500007   | Hardware Developer + membantu pemrograman arduino 
+4.| Bagus Dwi Kurniawan                | 2122500019   | 3D Designer + membantu proses perakitan dan soldering
+5.| Atilla Habil Prakoso               | 2122500028   | Software Developer + membantu proses perakitan dan soldering
+6.| Arief Naufaldi                     | 2122500031   | Documentation 
 
 ## Daftar Isi
 
@@ -31,15 +32,20 @@ NO| NAMA                               | NRP          |TUGAS
 - [Hasil Project](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#hasil)
 
 ## Komponen Yang Digunakan
-1. Arduino ATMEGA2560
-2. IC PAM8403
-3. Sensor ultrasonik
-4. Speaker
-5. LCD
-6. Push Button
-7. LED 3mm
-8. PCB
-Dan beberapa komponen pasif seperti resistor yang salah satunya digunakan sebagai pembatas arus pada LED indikator.
+
+NO| Komponen                           | Jumlah       
+--| -----------------------------------|--------------
+1.| Arduino ATMEGA2560                 | 1   
+2.| Sensor Ultrasonik (HC-SR04)        | 1  
+3.| Speaker                            | 1  
+4.| LCD 128x32                         | 1 
+5.| IC PAM8403                         | 1 
+6.| Push Button                        | 1 
+7.| LED 3mm                            | 2
+8.| PCB                                | 1
+9.| Resistor 220ohm                    | 1
+10.| Resistor 10kohm                   | 2
+
 
 ## Blok Diagram
 
@@ -118,6 +124,12 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/2e940395876ea8da8e4880ef85363d88e36535b4/Project%20Audio/Dokumentasi%20Audio/SELAMAT%20DATANG%20(HEX).jpeg)
 
+Vidio perbedaan audio sebelum dan sesudah diedit menggunakan audacity adalah sebagai berikut :
+
+
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/1ca87a29-002d-49de-8172-6b7dc6da22cd
+
+
 2. Audio Instruksi 1
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(AUDACITY).jpeg)
@@ -125,6 +137,12 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(HXD).jpeg)
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%201%20(HEX).jpeg)
+
+Vidio perbedaan audio sebelum dan sesudah diedit menggunakan audacity adalah sebagai berikut :
+
+
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/b0740aec-1e81-46ea-bcb6-a836326b6d8a
+
 
 3. Audio Instruksi 2
 
@@ -134,6 +152,12 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%202%20(HEX).jpeg)
 
+Vidio perbedaan audio sebelum dan sesudah diedit menggunakan audacity adalah sebagai berikut :
+
+
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/71092118-cb9e-4144-a3ec-47b7ac19b7bf
+
+
 4. Audio Tinggi Badan
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4c2b283342f273a1dfd3e153f1af3f0c8eb3ebcb/Project%20Audio/Dokumentasi%20Audio/TINGGI%20BADAN%20(AUDACITY).jpeg)
@@ -142,6 +166,12 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4c2b283342f273a1dfd3e153f1af3f0c8eb3ebcb/Project%20Audio/Dokumentasi%20Audio/TINGGI%20BADAN%20(HEX).jpeg)
 
+Vidio perbedaan audio sebelum dan sesudah diedit menggunakan audacity adalah sebagai berikut :
+
+
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/f88d98dd-6304-464c-ac30-c74001f160de
+
+
 5. Audio Sampai Jumpa
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SAMPAI%20JUMPA%20(AUDACITY).jpeg)
@@ -149,6 +179,12 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/489595905179edad1ffa022d430cba717051ff08/Project%20Audio/Dokumentasi%20Audio/SAMPAI%20JUMPA%20(HXD).jpeg)
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SAMPAI%20JUMPA%20(HEX).jpeg)
+
+Vidio perbedaan audio sebelum dan sesudah diedit menggunakan audacity adalah sebagai berikut :
+
+
+https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/168399446/b0327692-7e0e-4e4d-8a4f-5353cc58cd45
+
 
 Berikut ini merupakan  tutorial cara mengedit vidio di audacity beserta cara konvert audio format MP3 to HEX 
 

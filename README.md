@@ -160,40 +160,39 @@ https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/16839
 
 ## Dokumentasi
 
-1. Pembelian Komponen
-2. Pembuatan Simulasi Melalui Software
+1. Pembuatan Simulasi Melalui Software
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/dab638d84df408ab0f122243b43bc81fc9df51b2/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-06-02%20at%2020.10.47.jpeg)
 
-3. Desain PCB
+2. Desain PCB
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/c8b081f55c1a2530f42cc59b610abb251f4390ed/Dokumentasi/Proses%20Pembuatan%20PCB/WhatsApp%20Image%202024-06-02%20at%2020.34.36.jpeg)
 
-4. Desain 3D
+3. Desain 3D
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/8835d68b85bdef378ac459d9ddb3fbe4150e478f/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-05-27%20at%2008.29.45_cd0d9609.jpg)
 
-5. Soldering Awal
+4. Soldering Awal
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/8835d68b85bdef378ac459d9ddb3fbe4150e478f/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-05-27%20at%2008.29.43_7eb4deb4.jpg)
 
-6. Pembuatan Web/database
-7. Pembuatan Program Mikrokontroler
-8. Pembuatan Audio
+5. Pembuatan Web/database
+6. Pembuatan Program Mikrokontroler
+7. Pembuatan Audio
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Proses%20Pembuatan%20Audio/WhatsApp%20Image%202024-06-02%20at%2019.09.51.jpeg)
 
-9. Perakitan Keseluruhan Alat
+8. Perakitan Keseluruhan Alat
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/8835d68b85bdef378ac459d9ddb3fbe4150e478f/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-05-27%20at%2008.29.44_8c0e4b73.jpg)
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/dab638d84df408ab0f122243b43bc81fc9df51b2/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-06-02%20at%2020.31.47.jpeg)
 
-10. Publikasi Github
+9. Publikasi Github
 
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/dab638d84df408ab0f122243b43bc81fc9df51b2/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-06-02%20at%2020.31.47.jpeg)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Publikasi%20Github/WhatsApp%20Image%202024-06-02%20at%2019.33.18.jpeg)
 
-11. Percobaan Alat
+10. Percobaan Alat
 
 ## Hasil
 

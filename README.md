@@ -101,6 +101,7 @@ Berikut merupakan tutorial pembuatan desain PCB pada proyek ini
 ## Informasi Penempatan Komponen Pada PCB
 Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :
 
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Desain%203D/Pin%20Header%20to%20Sensor.png)
 
 ## Manufaktur Desain Casing
 Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :

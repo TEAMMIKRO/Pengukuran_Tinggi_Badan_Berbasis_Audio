@@ -92,6 +92,8 @@ Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8
 ## Informasi Penempatan Komponen Pada PCB
 Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :
 
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4a8bc46a8ae478fd297673a2b90015925bcaf7fd/Desain%203D/3D%20Print/Ukuran%20Cetak%20Akrilik.jpeg)
+
 ## Manufaktur Desain Casing
 Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :
 
@@ -124,6 +126,18 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/INSTRUKSI%202%20(HEX).jpeg)
 
 4. Audio Tinggi Badan
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4c2b283342f273a1dfd3e153f1af3f0c8eb3ebcb/Project%20Audio/Dokumentasi%20Audio/TINGGI%20BADAN%20(AUDACITY).jpeg)
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/TINGGI%20BADAN%20(HXD).jpeg)
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4c2b283342f273a1dfd3e153f1af3f0c8eb3ebcb/Project%20Audio/Dokumentasi%20Audio/TINGGI%20BADAN%20(HEX).jpeg)
+
 5. Audio Sampai Jumpa
 
-(https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4a8bc46a8ae478fd297673a2b90015925bcaf7fd/Desain%203D/3D%20Print/Ukuran%20Cetak%20Akrilik.jpeg)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SAMPAI%20JUMPA%20(AUDACITY).jpeg)
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/489595905179edad1ffa022d430cba717051ff08/Project%20Audio/Dokumentasi%20Audio/SAMPAI%20JUMPA%20(HXD).jpeg)
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SAMPAI%20JUMPA%20(HEX).jpeg)
+

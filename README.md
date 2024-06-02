@@ -93,6 +93,8 @@ Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8
 
 Berikut merupakan tutorial pembuatan desain PCB pada proyek ini
 
+
+
 ## Informasi Penempatan Komponen Pada PCB
 Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :
 

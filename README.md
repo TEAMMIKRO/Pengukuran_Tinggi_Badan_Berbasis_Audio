@@ -94,7 +94,6 @@ Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8
 Berikut merupakan tutorial pembuatan desain PCB pada proyek ini
 
 
-
 ## Informasi Penempatan Komponen Pada PCB
 Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :
 
@@ -169,6 +168,9 @@ Berikut ini merupakan  tutorial cara mengedit vidio di audacity beserta cara kon
 6. Pembuatan Web/database
 7. Pembuatan Program Mikrokontroler
 8. Pembuatan Audio
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Proses%20Pembuatan%20Audio/WhatsApp%20Image%202024-06-02%20at%2019.09.51.jpeg)
+
 9. Perakitan Keseluruhan Alat
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/8835d68b85bdef378ac459d9ddb3fbe4150e478f/Dokumentasi/Proses%20Pembuatan%20Alat/WhatsApp%20Image%202024-05-27%20at%2008.29.44_8c0e4b73.jpg)

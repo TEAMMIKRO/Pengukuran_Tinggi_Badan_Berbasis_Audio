@@ -2,12 +2,12 @@
 
 Alat pengukur tinggi badan dengan output suara adalah sebuah perangkat yang menggunakan mikrokontroler ATmega2560 dan sensor ultrasonik untuk mengukur tinggi badan secara akurat, sambil memberikan umpan balik melalui suara yang telah direkam sebelumnya. Alat pengukur tinggi badan berbasis ATmega2560 ini dirancang untuk memberikan pengalaman interaktif dan ramah pengguna, terutama bagi tuna rungu. Menggunakan sensor ultrasonik untuk mengukur tinggi badan, alat ini memberikan output yang telah direkam sebelumnya. Buzzer dan LED digunakan sebagai indikator status dan hasil pengukuran, sementara push button memulai atau mengulangi proses pengukuran. Hasil pengukuran ditampilkan pada layar, memastikan pengguna mendapatkan informasi secara visual.
 
-'WORKSHOP MIKROKONTROLLER - PROGRAM STUDI TEKNIK ELEKTRONIKA - POLITEKNIK ELEKTRONIKA NEGERI SURABAYA'
+`WORKSHOP MIKROKONTROLLER - PROGRAM STUDI TEKNIK ELEKTRONIKA - POLITEKNIK ELEKTRONIKA NEGERI SURABAYA`
 
-'DOSEN PENGAMPU : Akhmad Hendriawan ST, MT 
-NIP. 197501272002121003'
+`DOSEN PENGAMPU : Akhmad Hendriawan ST, MT 
+NIP. 197501272002121003`
 
-'TEAM DAN PEMBAGIAN TUGAS'
+`TEAM DAN PEMBAGIAN TUGAS`
 
 NO| NAMA                               | NRP          |TUGAS
 --| -----------------------------------|--------------|--------------

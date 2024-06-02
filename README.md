@@ -29,7 +29,7 @@ NO| NAMA                               | NRP          |JOBDESK + TUGAS TAMBAHAN
 - [Audio Project](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#audio-project)
 - [Website & Database](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#website--database)
 - [Dokumentasi Kegiatan](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#dokumentasi)
-- [Tutorial Upload Fota dan Vidio di Readme Github](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#dokumentasi)
+- [Tutorial Upload Foto dan Vidio di Readme Github](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#tutorial-upload-foto-dan-vidio-di-readme-github)
 - [Hasil Project](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/README.md#hasil)
 
 ## Komponen Yang Digunakan
@@ -81,7 +81,7 @@ Berikut ini adalah hasil skematik rangkaian sistem pendeteksi tinggi badan berba
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/PCB%20Board/Schematic/WhatsApp%20Image%202024-05-20%20at%2010.40.30.jpeg)
 
-Untuk semua file yang dibutuhkan terkait skematik rangkaian dapat diakses melalui link [berikut](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/be1ee38d38269d5c9926c6d4590ad30a860afe69/PCB%20Board)
+Untuk semua file yang dibutuhkan terkait skematik rangkaian dapat diakses melalui link [berikut](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/01fa1884fd218f2bfc27fa47c7c2f433bcaae3b4/PCB%20Board)
 
 ## Desain 3D
 Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8DCuID)
@@ -105,6 +105,8 @@ Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8
 Berikut merupakan tutorial pembuatan desain PCB pada proyek ini
 
 
+
+
 ## Informasi Penempatan Komponen Pada PCB
 Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :
 
@@ -116,7 +118,7 @@ Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4a8bc46a8ae478fd297673a2b90015925bcaf7fd/Desain%203D/3D%20Print/Ukuran%20Cetak%20Akrilik.jpeg)
 
 ## Audio Project
-Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/43f0c11e2246f075455c94ac5027af4af879e69d/Project%20Audio) sebagai bentuk perintah cara penggunaan alat serta tinggi badan yang terukur 
+Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/tree/01fa1884fd218f2bfc27fa47c7c2f433bcaae3b4/Project%20Audio) sebagai bentuk perintah cara penggunaan alat serta tinggi badan yang terukur 
 1. Audio Selamat Datang
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SELAMAT%20DATANG%20(AUDACITY).PNG)

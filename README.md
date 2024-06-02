@@ -198,6 +198,9 @@ https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/assets/16839
 ## Website & Database
 
 1. Database
+   
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Website/DATABASE.png)
+
 2. Website
 
 ## Dokumentasi

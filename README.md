@@ -2,10 +2,9 @@
 
 #### POLITEKNIK ELEKTRONIKA NEGERI SURABAYA - PROGRAM STUDI TEKNIK ELEKTRONIKA - D3 TEKNIK ELEKTRONIKA A - WORKSHOP MIKROKONTROLLER
 
-
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Assets/Banner/The%20Project.jpg)
 
-Alat pengukur tinggi badan dengan output suara adalah sebuah perangkat yang menggunakan mikrokontroler ATmega2560 dan sensor ultrasonik untuk mengukur tinggi badan secara akurat, sambil memberikan umpan balik melalui suara yang telah direkam sebelumnya. Alat pengukur tinggi badan berbasis ATmega2560 ini dirancang untuk memberikan pengalaman interaktif dan ramah pengguna, terutama bagi tuna rungu. Menggunakan sensor ultrasonik untuk mengukur tinggi badan, alat ini memberikan output suara melalui modul DFPlayer Mini yang memutar pesan suara yang telah direkam sebelumnya. Buzzer dan LED digunakan sebagai indikator status dan hasil pengukuran, sementara push button memulai atau mengulangi proses pengukuran. Hasil pengukuran ditampilkan pada layar, memastikan pengguna mendapatkan informasi secara visual.
+Alat pengukur tinggi badan dengan output suara adalah sebuah perangkat yang menggunakan mikrokontroler ATmega2560 dan sensor ultrasonik untuk mengukur tinggi badan secara akurat, sambil memberikan umpan balik melalui suara yang telah direkam sebelumnya. Alat pengukur tinggi badan berbasis ATmega2560 ini dirancang untuk memberikan pengalaman interaktif dan ramah pengguna, terutama bagi tuna rungu. Menggunakan sensor ultrasonik untuk mengukur tinggi badan, alat ini memberikan output yang telah direkam sebelumnya. Buzzer dan LED digunakan sebagai indikator status dan hasil pengukuran, sementara push button memulai atau mengulangi proses pengukuran. Hasil pengukuran ditampilkan pada layar, memastikan pengguna mendapatkan informasi secara visual.
 
 DOSEN PENGAMPU : Akhmad Hendriawan ST, MT
 
@@ -43,6 +42,8 @@ NO| NAMA                               | NRP          |TUGAS
 Dan beberapa komponen pasif seperti resistor yang salah satunya digunakan sebagai pembatas arus pada LED indikator.
 
 ## Blok Diagram
+
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/e733c5e47286d447a4fb18ec4ce0859890ae26a2/Assets/Blok%20diagram/BLOK%20DIAGRAM.jpeg)
 
 Alat pengukuran tinggi badan berbasis ATmega2560 dengan output suara adalah alat yang mengukur tinggi badan seseorang menggunakan sensor ultrasonik yang terhubung ke mikrokontroler ATmega2560. Berikut prinsip kerjanya :
 
@@ -92,7 +93,6 @@ Berikut ini adalah hasil [desain 3D](https://youtu.be/tahwFHJnfhA?si=7prXb_H3Sg8
 ## Informasi Penempatan Komponen Pada PCB
 Tata letak penempatan komponen pada PCB untuk memudahkan dalam proses perakitan adalah seperti gambar berikut :
 
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/4a8bc46a8ae478fd297673a2b90015925bcaf7fd/Desain%203D/3D%20Print/Ukuran%20Cetak%20Akrilik.jpeg)
 
 ## Manufaktur Desain Casing
 Berikut adalah detail ukuran casing untuk kebutuhan manufaktur :
@@ -141,3 +141,21 @@ Pada project pengukuran tinggi badan, Terdapat 5 mode [audio](https://github.com
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Project%20Audio/Dokumentasi%20Audio/SAMPAI%20JUMPA%20(HEX).jpeg)
 
+## Dokumentasi
+
+1. Pembelian Komponen
+2. Pembuatan Simulasi Melalui Software
+3. Soldering Awal
+4. Pembuatan Web/database
+5. Pembuatan Program Mikrokontroler
+6. Desain PCB
+7. Pembuatan Audio
+8. Perakitan Keseluruhan Alat
+9. Publikasi Github
+10. Percobaan Alat
+
+## Hasil
+
+1. Cetak PCB non Komponen
+2. Cetak PCB + Komponen
+3. Cetak Akrilik

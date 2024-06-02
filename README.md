@@ -194,3 +194,6 @@ Berikut ini merupakan  tutorial cara mengedit vidio di audacity beserta cara kon
 
 ![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Dokumentasi/Hasil%20Cetak%20PCB%20%26%20Akrilik/CASING%20CETAK%202.jpeg)
 
+5. Keseluruhan Alat
+   
+

@@ -62,10 +62,10 @@ Alat pengukuran tinggi badan berbasis ATmega2560 dengan output suara adalah alat
 ## Konsep Simulasi
 Berikut adalah skematik breadboard untuk simulasi menggunakan wokwi yang disimulasikan dengan arduino uno
 
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Simulasi%20Wokwi/Simulasi%20Alat%20Ukur%20Tinggi%20Badan%20Menggunakan%20Ouput%20berupa%20Buzzer%20dan%20LCD%20I2C.mp4)
+![]![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Simulasi%20Wokwi/Simul%20wokwi.PNG)
 
 Dengan hasil simulasi seperti ditunjukkan pada video berikut: 
-![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Simulasi%20Wokwi/Simul%20wokwi.PNG)
+![](https://github.com/TEAMMIKRO/Pengukuran_Tinggi_Badan_Berbasis_Audio/blob/main/Simulasi%20Wokwi/Simulasi%20Alat%20Ukur%20Tinggi%20Badan%20Menggunakan%20Ouput%20berupa%20Buzzer%20dan%20LCD%20I2C.mp4)
 
 Simulasi dapat diperoleh dan didownload melalui link [berikut](https://wokwi.com/projects/399474799840596993) 
 
